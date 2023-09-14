@@ -1,0 +1,19 @@
+/* .navbar{
+    background-color: rgb(197, 197, 130) !important;
+} */
+
+.navigate .nav-item{
+    cursor: pointer;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    display: inline;
+}
+
+.navigate .nav-item:hover{
+    color:rgb(69, 193, 62);
+}
+
+.navigate .nav-item:active, .nav-item.active{
+    color: red;
+}
+
